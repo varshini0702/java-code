@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varshini0702/java-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/varshini0702/java-code/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varshini0702/java-code/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/varshini0702/java-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
