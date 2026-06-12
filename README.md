@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshini0702/java-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/varshini0702/java-code/tree/master/0066-plus-one) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/varshini0702/java-code/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/varshini0702/java-code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/varshini0702/java-code/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/varshini0702/java-code/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
