@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/varshini0702/java-code/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/varshini0702/java-code/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshini0702/java-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/varshini0702/java-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/varshini0702/java-code/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/varshini0702/java-code/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
