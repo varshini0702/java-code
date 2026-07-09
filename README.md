@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/varshini0702/java-code/tree/master/0209-minimum-size-subarray-sum) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/varshini0702/java-code/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
