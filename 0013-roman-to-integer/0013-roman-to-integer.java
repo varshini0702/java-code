@@ -1,22 +1,22 @@
 class Solution {
     public int romanToInt(String s) {
-        int total = 0;
+        int sum = 0;
 
         for (int i = 0; i < s.length(); i++) {
             int value = getValue(s.charAt(i));
 
             if (i < s.length() - 1 && value < getValue(s.charAt(i + 1))) {
-                total -= value;
+                sum -= value;
             } else {
-                total += value;
+                sum += value;
             }
         }
 
-        return total;
+        return sum;
     }
 
-    public int getValue(char ch) {
-        switch (ch) {
+    public int getValue(char c) {
+        switch (c) {
             case 'I': return 1;
             case 'V': return 5;
             case 'X': return 10;
