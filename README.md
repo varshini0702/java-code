@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/varshini0702/java-code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/varshini0702/java-code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/varshini0702/java-code/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/varshini0702/java-code/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/varshini0702/java-code/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/varshini0702/java-code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshini0702/java-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/varshini0702/java-code/tree/master/0415-add-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/varshini0702/java-code/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/varshini0702/java-code/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
