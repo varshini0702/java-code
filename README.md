@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varshini0702/java-code/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/varshini0702/java-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/varshini0702/java-code/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/varshini0702/java-code/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/varshini0702/java-code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/varshini0702/java-code/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/varshini0702/java-code/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/varshini0702/java-code/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1195-fizz-buzz-multithreaded](https://github.com/varshini0702/java-code/tree/master/1195-fizz-buzz-multithreaded) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/varshini0702/java-code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
