@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/varshini0702/java-code/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/varshini0702/java-code/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/varshini0702/java-code/tree/master/0415-add-strings) |
+| [2413-smallest-even-multiple](https://github.com/varshini0702/java-code/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshini0702/java-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/varshini0702/java-code/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
